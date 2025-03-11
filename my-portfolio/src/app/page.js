@@ -5,16 +5,16 @@ export default function HomePage() {
   const experiences = [
     {
       time: "2024 - Present",
-      main: "Workshop Developer",
-      upper: "Code For All",
+      main: "Position A",
+      upper: "Company A",
       description:
         "Developed workshops for students to learn about web development.",
     },
     {
       time: "2023 - Present",
-      main: "Computer Science Tutor",
-      upper: "Queens College",
-      description: "Tutored students in computer science courses.",
+      main: "Position B",
+      upper: "Company B",
+      description: "Raised company profits like a good employee.",
     },
   ];
   const education = [
